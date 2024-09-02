@@ -1,0 +1,2 @@
+export const fieldMask = "places.id,places.displayName,places.formattedAddress,places.location,places.currentOpeningHours,places.rating,places.userRatingCount,places.photos,places.takeout,places.internationalPhoneNumber,places.dineIn,places.websiteUri"
+export const restaurantIdParameters = "id,displayName,formattedAddress,location,currentOpeningHours,rating,userRatingCount,photos,takeout,internationalPhoneNumber,dineIn,websiteUri"
